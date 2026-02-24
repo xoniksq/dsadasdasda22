@@ -1,0 +1,14 @@
+C:\Users\Student 5\Desktop\SportStoreLogin2\bin\Debug\SportStoreLogin2.exe.config
+C:\Users\Student 5\Desktop\SportStoreLogin2\bin\Debug\SportStoreLogin2.exe
+C:\Users\Student 5\Desktop\SportStoreLogin2\bin\Debug\SportStoreLogin2.pdb
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.csproj.AssemblyReference.cache
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\MainWindow.baml
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\MainWindow.g.cs
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\App.g.cs
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2_MarkupCompile.cache
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.g.resources
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.Properties.Resources.resources
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.csproj.GenerateResource.cache
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.csproj.CoreCompileInputs.cache
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.exe
+C:\Users\Student 5\Desktop\SportStoreLogin2\obj\Debug\SportStoreLogin2.pdb
